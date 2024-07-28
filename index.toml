@@ -765,6 +765,11 @@ hash = "a2888c614afd7ad2e06e8b6e5a1d2d8fc18e950b0c3855ae6adb459eb3778a30"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "fde7b10fc03483fbfceb24bc4439be6920f5fa9d6c3802c48847959f2b52107f"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "770818376a8b8a0df211c45f9d8eecb67c4556c6049d0aa51410b356502f79b4"
 metafile = true
@@ -917,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "43aa2c47e284692aa6182abd00929d5753c8660aea9e23b901da68aa75a68930"
+metafile = true
+
+[[files]]
+file = "mods/luggage.pw.toml"
+hash = "1b44cbb394ebb487a960c778048da90b020042fd7958e410cf25312e322eb799"
 metafile = true
 
 [[files]]
