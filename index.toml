@@ -57,6 +57,10 @@ file = "config/defaultoptions/options.txt"
 hash = "7fbf1a7a900a7294102ce0bb406470084d0054d57df53440de3607135fb6ccba"
 
 [[files]]
+file = "config/emi.css"
+hash = "2d4d1ed800a808d084cd7e0e86028705886cc79581f997ca8095c739c9253858"
+
+[[files]]
 file = "config/expatternprovider-common.toml"
 hash = "14ef0bbe6e5eeb3be38eb0cc02dcf7390343df816df23d01e032311298911464"
 
@@ -589,6 +593,10 @@ file = "kubejs/server_scripts/open_blocks/hang_glider.js"
 hash = "c0f7355c24b9f386b34837722efd54b4205ebdb7fcd406cefd31d796a3b4a2ec"
 
 [[files]]
+file = "kubejs/server_scripts/open_blocks/luggage.js"
+hash = "a101b00e774775a88a1670652142ec5357020b14e42de9970f5b2c6197c9550e"
+
+[[files]]
 file = "kubejs/server_scripts/removals.js"
 hash = "968450442f137a9afd5066fd50b488dfb88bd86cd619c5e22b5be75c362564fc"
 
@@ -638,7 +646,7 @@ hash = "61cd02dea78ba9a592305f77581b2e043237a2a3a8a3baf3026b66617d266474"
 
 [[files]]
 file = "kubejs/startup_scripts/components/hsla-steel.js"
-hash = "2df8bceaa0bcb871203b094c657461eb9b78cc4fc20d63d95388d2e1d0f95a2e"
+hash = "c69a54184c19340ac143442e906a3e6bc6916cee85dce2d6557e3e9825fd6f9d"
 
 [[files]]
 file = "kubejs/startup_scripts/icons.js"
@@ -654,7 +662,7 @@ hash = "9e96db0992d5265e60b1a5f86b853222825b96593e05fa7c06b46617c9fe02e5"
 
 [[files]]
 file = "kubejs/startup_scripts/material_testing/material.js"
-hash = "1251ce19a3fb1d2b029c1cb2b1ed3020e07e514eaad8786b5a3c96e4a1e0713a"
+hash = "ca1773ad6a0f985e4460018d70dc7c8e42de1617a8a19e9947f928e006ad0b99"
 
 [[files]]
 file = "kubejs/startup_scripts/recipes/construction_core.js"
