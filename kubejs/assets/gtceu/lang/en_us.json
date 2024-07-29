@@ -4,5 +4,20 @@
   "block.gtceu.construction_core":"Construction Core", 
   "gtceu.construction_core":"Construction Core",
 
-  "material.gtceu.fluix":"Fluix"
+  "material.gtceu.fluix":"Fluix",
+
+  "item.gtceu.tool.harvest_level.0": "§8Wood",
+  "item.gtceu.tool.harvest_level.1": "§7Stone",
+  "item.gtceu.tool.harvest_level.2": "§fIron",
+  "item.gtceu.tool.harvest_level.3": "§bDiamond",
+  "item.gtceu.tool.harvest_level.4": "§5Netherite",
+  "item.gtceu.tool.harvest_level.5": "§4Duranium",
+  "item.gtceu.tool.harvest_level.6": "§cNeutronium",
+
+  "material.gtceu.tumbaga": "Tumbaga",
+  "material.gtceu.cactus_charcoal": "Cactus Charcoal",
+  "material.gtceu.cactus_coke": "Cactus Coke",
+  "material.gtceu.sugar_charcoal": "Sugar Charcoal",
+  "material.gtceu.sugar_coke": "Sugar Coke"
+
 }

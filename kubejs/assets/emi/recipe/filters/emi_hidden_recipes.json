@@ -1,0 +1,13 @@
+{
+	"filters": [
+		{
+			"id": "/emi:\/anvil\/enchanting\/.*/"
+		},
+		{
+			"id": "/emi:\/crafting\/repairing\/.*/"
+		},
+		{
+			"id": "/emi:\/anvil\/repairing\/tool\/.*/"
+		}
+	]
+}

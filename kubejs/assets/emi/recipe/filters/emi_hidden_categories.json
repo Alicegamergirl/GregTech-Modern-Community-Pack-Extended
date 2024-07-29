@@ -1,0 +1,16 @@
+{
+	"filters": [
+		{
+			"category": "minecraft:smoking"
+		},
+		{
+			"category": "minecraft:campfire_cooking"
+		},
+		{
+			"category": "emi:grinding"
+		},
+		{
+			"category": "emi:composting"
+		}
+	]
+}
