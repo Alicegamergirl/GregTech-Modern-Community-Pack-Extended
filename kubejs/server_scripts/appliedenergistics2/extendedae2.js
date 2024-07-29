@@ -54,7 +54,7 @@ ServerEvents.recipes((event) => {
     .itemOutputs(
       Item.of(
         'expatternprovider:infinity_cell',
-        '{record:{'#c':'ae2:f',id:'water'}}'
+        '{record:{"#c":"ae2:f",id:"water"}}'
       )
     )
     .duration(100)
@@ -67,7 +67,7 @@ ServerEvents.recipes((event) => {
     .itemOutputs(
       Item.of(
         'expatternprovider:infinity_cell',
-        '{record:{'#c':'ae2:i',id:'cobblestone'}}'
+        '{record:{"#c":"ae2:i",id:"cobblestone"}}'
       )
     )
     .duration(100)
