@@ -49,6 +49,14 @@ file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "eb64bbdfdc257b03ea6787c1660e33a8bc9e2c0fc52dd0a5c5f980b3bfaf95c3"
+
+[[files]]
+file = "config/darkmodeeverywhereshaders.json"
+hash = "2b00452f5043e33ccc023d017324e80ef333f861da68a6e989576c46a970f487"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "30b404e7b7dd5bca82b5452fe5cfe55e160fb7b1740bab94ba85018141746c0a"
 
@@ -770,6 +778,11 @@ hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "a7f86043961b9645bd52000b0083193ca8dda09cc30e53810019491b57f33d57"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "bace9ac545c5db24d350a955565157500cdcedc8db6a8e78ff6118d97748eb2a"
 metafile = true
@@ -817,6 +830,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "dea4cb0ab50117d79c8c0ded39b7f4720cd5424ef88fa40d77c02a4381d9c0e1"
+metafile = true
+
+[[files]]
+file = "mods/framed-compacting-drawers.pw.toml"
+hash = "187bf861f43bc59e65cdd3ad5fbb8bc2042ad43d53de11f32002d565faf9d174"
 metafile = true
 
 [[files]]
