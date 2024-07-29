@@ -10,23 +10,23 @@ ServerEvents.recipes((event) => {
   event.replaceInput({ id: 'gtceu:shaped/steam_grinder' }, 'gtceu:lp_steam_macerator', 'gtceu:tumbaga_frame');
 
   greg
-    coke_oven('cactus_charcoal').duration(500)
+    .coke_oven('cactus_charcoal').duration(500)
     .itemInputs('cactus')
     .itemOutputs('gtceu:cactus_charcoal_gem')
     .outputFluids('gtceu:creosote 30');
   greg
-    coke_oven('cactus_coke').duration(500)
+    .coke_oven('cactus_coke').duration(500)
     .itemInputs('cactus_charcoal')
     .itemOutputs('gtceu:cactus_coke_gem')
     .outputFluids('gtceu:creosote 30');
 
   greg
-    coke_oven('sugar_charcoal').duration(500)
+    .coke_oven('sugar_charcoal').duration(500)
     .itemInputs('sugar_cane')
     .itemOutputs('gtceu:sugar_charcoal_gem')
     .outputFluids('gtceu:creosote 30');
   greg
-    coke_oven('sugar_coke').duration(500)
+    .coke_oven('sugar_coke').duration(500)
     .itemInputs('sugar_charcoal')
     .itemOutputs('gtceu:sugar_coke_gem')
     .outputFluids('gtceu:creosote 30');

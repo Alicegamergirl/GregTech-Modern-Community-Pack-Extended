@@ -13,4 +13,10 @@ ServerEvents.recipes(event => {
       .itemInputs(`oreberriesreplanted:${material}_oreberry`)
       .itemOutputs(`gtceu:tiny_${material}_dust`)
 });
+
+  greg
+    .macerator('aluminium_from_berries').duration(56).EUt(2)
+    .itemInputs('oreberriesreplanted:aluminum_oreberry')
+    .itemOutputs('gtceu:tiny_aluminium_dust');
+
 })

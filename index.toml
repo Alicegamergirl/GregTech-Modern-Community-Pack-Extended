@@ -598,7 +598,7 @@ hash = "2128fb6f858d9f9623c778553003c135ae33b6b90966b77f332e24031fdf97eb"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/materials.js"
-hash = "2d9cb97b8dc145501d856560fc0abd9c8408ad7076051be8a8a791811a9c7f09"
+hash = "e90087d29bb09e9bf4a22f6fbe6967776687ab31b23d16e4bef4bf1c451a87dc"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/temporary_fixes.js"
@@ -626,7 +626,7 @@ hash = "a101b00e774775a88a1670652142ec5357020b14e42de9970f5b2c6197c9550e"
 
 [[files]]
 file = "kubejs/server_scripts/oreberries.js"
-hash = "502daebdbc0598e266a85dc0c461eb2511a8b2d352a6e4fe5566326e49d577cf"
+hash = "3574dfac650d7c8789709fcd4433b78a8bbebf7a8c04ca1282a51337742e8614"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
