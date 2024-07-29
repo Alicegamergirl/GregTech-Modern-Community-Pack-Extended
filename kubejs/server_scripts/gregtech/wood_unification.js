@@ -2,7 +2,7 @@ ServerEvents.recipes((event) => {
   function woodUnification(woodType) {
     event.recipes.gtceu
       .assembler(`${woodType}_fence`)
-      .itemInputs(`${woodType}_planks`, "stick")
+      .itemInputs(`${woodType}_planks`, 'stick')
       .itemOutputs(`${woodType}_fence`)
       .circuit(1)
       .duration(100)
@@ -10,7 +10,7 @@ ServerEvents.recipes((event) => {
 
     event.recipes.gtceu
       .assembler(`${woodType}_fence_gate`)
-      .itemInputs(`2x ${woodType}_planks`, "2x stick")
+      .itemInputs(`2x ${woodType}_planks`, '2x stick')
       .itemOutputs(`${woodType}_fence_gate`)
       .circuit(2)
       .duration(100)
@@ -25,8 +25,8 @@ ServerEvents.recipes((event) => {
       .EUt(1);
   }
 
-  woodUnification("warped");
-  woodUnification("crimson");
-  woodUnification("mangrove");
-  woodUnification("cherry");
+  woodUnification('warped');
+  woodUnification('crimson');
+  woodUnification('mangrove');
+  woodUnification('cherry');
 });

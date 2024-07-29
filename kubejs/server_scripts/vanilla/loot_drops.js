@@ -1,17 +1,17 @@
 LootJS.modifiers((event) => {
   event
-    .addEntityLootModifier("minecraft:blaze")
-    .replaceLoot("minecraft:blaze_rod", "gtceu:sulfur_dust", true);
+    .addEntityLootModifier('blaze')
+    .replaceLoot('blaze_rod', 'gtceu:sulfur_dust', true);
   event
-    .addEntityLootModifier("minecraft:enderman")
-    .replaceLoot("minecraft:ender_pearl", "gtceu:ender_pearl_dust", true);
+    .addEntityLootModifier('enderman')
+    .replaceLoot('ender_pearl', 'gtceu:ender_pearl_dust', true);
 
     event
-    .addEntityLootModifier("minecraft:zombified_piglin")
-    .removeLoot("minecraft:gold_nugget");
+    .addEntityLootModifier('zombified_piglin')
+    .removeLoot('gold_nugget');
 
     
   event
-  .addEntityLootModifier("minecraft:iron_golem")
-  .removeLoot("minecraft:iron_ingot");
+  .addEntityLootModifier('iron_golem')
+  .removeLoot('iron_ingot');
 });
