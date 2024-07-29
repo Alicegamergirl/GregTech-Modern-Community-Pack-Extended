@@ -6,7 +6,6 @@ ServerEvents.recipes((event) => {
     E: 'gtceu:ender_pearl_block',
   });
 
-
   // Travel Anchors
   event.remove({ id: 'travelanchors:travel_anchor' });
   event.shaped(`travelanchors:travel_anchor`, ['SGS', 'GPG', 'SGS'], {
